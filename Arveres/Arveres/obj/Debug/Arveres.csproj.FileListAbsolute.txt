@@ -1,0 +1,12 @@
+c:\users\lab.02\documents\visual studio 2013\Projects\Arveres\Arveres\bin\Debug\Arveres.exe.config
+c:\users\lab.02\documents\visual studio 2013\Projects\Arveres\Arveres\bin\Debug\Arveres.exe
+c:\users\lab.02\documents\visual studio 2013\Projects\Arveres\Arveres\bin\Debug\Arveres.pdb
+c:\users\lab.02\documents\visual studio 2013\Projects\Arveres\Arveres\obj\Debug\Arveres.csprojResolveAssemblyReference.cache
+c:\users\lab.02\documents\visual studio 2013\Projects\Arveres\Arveres\obj\Debug\Arveres.exe
+c:\users\lab.02\documents\visual studio 2013\Projects\Arveres\Arveres\obj\Debug\Arveres.pdb
+C:\Users\Lab.02\Desktop\Arveres\Arveres\bin\Debug\Arveres.exe.config
+C:\Users\Lab.02\Desktop\Arveres\Arveres\obj\Debug\Arveres.exe
+C:\Users\Lab.02\Desktop\Arveres\Arveres\obj\Debug\Arveres.pdb
+C:\Users\Lab.02\Desktop\Arveres\Arveres\bin\Debug\Arveres.exe
+C:\Users\Lab.02\Desktop\Arveres\Arveres\bin\Debug\Arveres.pdb
+C:\Users\Lab.02\Desktop\Arveres\Arveres\obj\Debug\Arveres.csprojResolveAssemblyReference.cache
